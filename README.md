@@ -1,5 +1,5 @@
 # Catty 实现使用GPT开放接口增强各类手机厂商自带的 Assistant
-![UQQMJ.png](https://i.328888.xyz/2022/12/29/UQQMJ.png)
+
 Catty build with GO.
 
 ### 功能
