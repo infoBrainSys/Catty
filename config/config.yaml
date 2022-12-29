@@ -1,0 +1,19 @@
+DatabaseCfg: 
+  DriverName: mysql
+  DBName: db 
+  DSN: 
+  - User: root
+    Passwd: 123456..a
+    Host: 127.0.0.1
+    Port: 3306
+  DontSupportRenameIndex: true
+  DontSupportRenameColumn: true
+
+
+RequestChat: 
+  Key : YOU_KEY
+  Model: text-davinci-003
+  MaxTokens: 1024
+  Temperature: 0
+  TopP: 1
+  N: 1
